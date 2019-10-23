@@ -18,9 +18,9 @@ bb
 cc
 
 - I've added **Expression Discriminator** to Cyclegan to make it appropriate for the class
-
-dd
-
 - **Expression Discriminator** is Pretrained by FER2013 or RAF_single training-set 
 - It can be focus on generate correct class
 
+dd
+
+- Here is output of RDGAN
