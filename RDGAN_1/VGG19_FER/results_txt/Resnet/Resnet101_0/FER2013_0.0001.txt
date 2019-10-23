@@ -1,0 +1,3 @@
+current_Private_acc: 58.947
+best_PrivateTest_acc: 59.474
+best_PrivateTest_epoch: 91
