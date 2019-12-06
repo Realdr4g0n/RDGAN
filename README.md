@@ -26,3 +26,8 @@
 <img src="https://github.com/Realdr4g0n/RDGAN/blob/master/img/experiments.png">
 
 - Here is output of RDGAN
+
+
+# How to run
+
+- ...
